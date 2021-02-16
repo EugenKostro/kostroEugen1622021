@@ -1,0 +1,11 @@
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\bin\Debug\kostroEugenZadatak1622021.exe.config
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\bin\Debug\kostroEugenZadatak1622021.exe
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\bin\Debug\kostroEugenZadatak1622021.pdb
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\obj\Debug\kostroEugenZadatak1622021.csprojAssemblyReference.cache
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\obj\Debug\kostroEugenZadatak1622021.Properties.Resources.resources
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\obj\Debug\kostroEugenZadatak1622021.csproj.GenerateResource.cache
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\obj\Debug\kostroEugenZadatak1622021.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\obj\Debug\kostroEugenZadatak1622021.exe
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\obj\Debug\kostroEugenZadatak1622021.pdb
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\obj\Debug\kostroEugenZadatak1622021.Studenti.resources
+C:\Users\Učenik 12\source\repos\kostroEugenZadatak1622021\kostroEugenZadatak1622021\obj\Debug\kostroEugenZadatak1622021.UnosNovogStudenta.resources
